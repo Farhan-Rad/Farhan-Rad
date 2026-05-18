@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **personal projects**<br>👯 I'm looking to collaborate on **open source or school projects**<br>🤝 I'm looking for help with **Flutter & Laravel best practices**<br>🌱 I'm currently learning **new frameworks & deepening my existing stack**<br>💬 Ask me about **Laravel, Web Dev, Graphic Design**<br>⚡ Fun fact: I'm a vocational student who codes & designs
+🔭 I'm currently working on **personal projects**<br>👯 I'm looking to collaborate on **open source or school projects**<br>🤝 I'm looking for help with **Flutter & Laravel best practices**<br>🌱 I'm currently learning **new frameworks & deepening my existing stack**<br>💬 Ask me about **Web Dev, Graphic Design**<br>⚡ Fun fact: I'm a vocational student who codes & designs
 
 
 ## 🌐 Socials:
